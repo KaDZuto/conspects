@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3e007b380c4558e4","x":-145,"y":-380,"width":250,"height":60,"type":"text","text":"Коммуникативная"},
+		{"id":"0dff80c0412f1f68","x":-420,"y":-310,"width":250,"height":60,"type":"text","text":"Когнитивная"},
+		{"id":"be828b1bc215760c","x":-145,"y":-250,"width":250,"height":60,"color":"1","type":"text","text":"**Функции СРЯ**"},
+		{"id":"78619068c3eb2a5d","x":140,"y":-310,"width":250,"height":60,"type":"text","text":"Эмоциональная"},
+		{"id":"5c29337f8c6c1215","x":140,"y":-160,"width":250,"height":60,"type":"text","text":"Волюнтативная"},
+		{"id":"e27851181b000d31","x":-420,"y":-160,"width":250,"height":60,"type":"text","text":"Аккумулятивная"}
+	],
+	"edges":[
+		{"id":"dda99570d91584c9","fromNode":"be828b1bc215760c","fromSide":"bottom","toNode":"5c29337f8c6c1215","toSide":"left"},
+		{"id":"4c8cba978603cfa4","fromNode":"be828b1bc215760c","fromSide":"top","toNode":"3e007b380c4558e4","toSide":"bottom"},
+		{"id":"a403f283115d87a4","fromNode":"be828b1bc215760c","fromSide":"left","toNode":"0dff80c0412f1f68","toSide":"bottom"},
+		{"id":"d1a7240e2ac05cb8","fromNode":"be828b1bc215760c","fromSide":"right","toNode":"78619068c3eb2a5d","toSide":"bottom"},
+		{"id":"72e5cb856fbc6a85","fromNode":"be828b1bc215760c","fromSide":"bottom","toNode":"e27851181b000d31","toSide":"right"}
+	]
+}

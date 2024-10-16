@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c3afd052a19cbe28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa39ebb14238bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42fc5b518a32ca2c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37fff2c30e70d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b79a755de097605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05468fbbbf9efbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef37a40f611ac4bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cc2fc412135a819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf3abaa014b66ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49a9e4f9d8ad2a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2395503dc30ad550",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c33378e3ae51207",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d199d76465818b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3eb01d6fbe57e63e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42fc5b518a32ca2c",
+  "lastOpenFiles": [
+    "шпора.pdf",
+    "Конспекты/~$шпора.docx",
+    "Конспекты/шпора.docx",
+    "Конспекты/Конспекты по датам/3 октября.md",
+    "Конспекты/шпора.md",
+    "Конспекты/Конспекты по датам/!Конспекты по датам.md",
+    "Конспекты/Конспекты по датам/26 Сентября.md",
+    "Конспекты/Конспекты по датам/15 Сентября_GPT.md",
+    "Конспекты/Конспекты по датам/15 Сентября.md",
+    "Конспекты/Алгебраические структуры.md",
+    "Конспекты/!Комплексные числа/!Комплексные числа.md",
+    "Конспекты/!Теория множеств/!Теория множеств.md",
+    "Конспекты/!Оглавление.md",
+    "Конспекты/Сумма и произведение с правилами.md",
+    "Конспекты/Конспекты по датам/5 Сентября.md",
+    "Конспекты/Конспекты по датам/11 Сентября.md",
+    "Конспекты/Конспекты по датам/9 Сентября.md",
+    "Конспекты/!Теория множеств/Бинарные операции.md",
+    "Конспекты/!Теория множеств/Множества и Операции.md",
+    "Конспекты/!Теория множеств/Популярные множества.md",
+    "Конспекты/!Комплексные числа/Поле комплексных чисел.md",
+    "Конспекты/!Комплексные числа",
+    "Конспекты/!Теория множеств",
+    "Pasted image 20240912122736.png",
+    "Pasted image 20240912122628.png",
+    "Pasted image 20240912121226.png",
+    "Pasted image 20240912121026.png",
+    "Pasted image 20240912115638.png",
+    "Pasted image 20240912115531.png",
+    "Untitled.md",
+    "Методичка/Методичка5сентября.zip",
+    "Методичка/Методичка5сентября.zip.tmp",
+    "Методичка/5 Сентября (Отдельно по темам)/Сумма и произведение с правилами.pdf",
+    "Методичка/5 Сентября (Отдельно по темам)/Популярные множества.pdf",
+    "Методичка/5 Сентября (Отдельно по темам)/Множества и Операции.pdf",
+    "Методичка/5 Сентября (Отдельно по темам)",
+    "Методичка/Конспекты/Конспекты по датам/5 Сентября.md",
+    "Методичка/Конспекты/Конспекты по датам/!Конспекты по датам.md",
+    "Методичка/Конспекты/Популярные множества.md",
+    "Методичка/Конспекты/Сумма и произведение с правилами.md",
+    "Методичка/Конспекты/Множества и Операции.md",
+    "Методичка/Конспекты/!Оглавление.md",
+    "ДекартовоПроизведение.png",
+    "Pasted image 20240905122557.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f76269f3eb0151a1","type":"text","text":"**Уровни русского языка**","x":-140,"y":-320,"width":250,"height":60},
+		{"id":"5ba931e9e3f73f47","type":"text","text":"Фонетический\nФонема","x":-140,"y":-200,"width":250,"height":60},
+		{"id":"e68a9e81f035115a","type":"text","text":"Морфемный\nМорфема","x":-140,"y":-80,"width":250,"height":60},
+		{"id":"3ff813b6670b54dc","type":"text","text":"Лексический\nЛексема","x":-140,"y":40,"width":250,"height":68},
+		{"id":"716e0326f9fe2809","type":"text","text":"Синтаксический\nЧлен предложения","x":-140,"y":180,"width":250,"height":70}
+	],
+	"edges":[
+		{"id":"f2b1af363cd88d45","fromNode":"f76269f3eb0151a1","fromSide":"bottom","toNode":"5ba931e9e3f73f47","toSide":"top"},
+		{"id":"08d85a3b48c31aa3","fromNode":"5ba931e9e3f73f47","fromSide":"bottom","toNode":"e68a9e81f035115a","toSide":"top"},
+		{"id":"7e537c87f94f09d9","fromNode":"e68a9e81f035115a","fromSide":"bottom","toNode":"3ff813b6670b54dc","toSide":"top"},
+		{"id":"c13304f437d26045","fromNode":"3ff813b6670b54dc","fromSide":"bottom","toNode":"716e0326f9fe2809","toSide":"top"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"762409dd12c23ba5","type":"file","file":"Конспекты/Теория множеств/Типы множеств/Упорядоченное множество.md","x":40,"y":-160,"width":400,"height":400},
+		{"id":"4a4acf8eb8a66064","type":"text","text":"Множество $\\mathbb R$\n","x":-355,"y":-480,"width":250,"height":69},
+		{"id":"fc675ed02e906a84","type":"file","file":"Конспекты/Теория множеств/Множество R.md","x":-440,"y":880,"width":400,"height":400},
+		{"id":"cde46c6e8866ff8f","type":"file","file":"Конспекты/Теория множеств/Типы множеств/Полное множество.md","x":-440,"y":-160,"width":400,"height":400},
+		{"id":"947c1cd5ba764db9","type":"file","file":"Конспекты/Теория множеств/Типы множеств/Алгебраическое поле.md","x":-920,"y":-160,"width":400,"height":720}
+	],
+	"edges":[
+		{"id":"3df71ac255defd27","fromNode":"4a4acf8eb8a66064","fromSide":"bottom","toNode":"947c1cd5ba764db9","toSide":"top"},
+		{"id":"6ab9717628875798","fromNode":"4a4acf8eb8a66064","fromSide":"bottom","toNode":"cde46c6e8866ff8f","toSide":"top"},
+		{"id":"04bc16944dd8c6e6","fromNode":"4a4acf8eb8a66064","fromSide":"bottom","toNode":"762409dd12c23ba5","toSide":"top"},
+		{"id":"3a8279523e100616","fromNode":"947c1cd5ba764db9","fromSide":"bottom","toNode":"fc675ed02e906a84","toSide":"top"},
+		{"id":"8a9f58ee99e06097","fromNode":"cde46c6e8866ff8f","fromSide":"bottom","toNode":"fc675ed02e906a84","toSide":"bottom"},
+		{"id":"dccfc5dc92516207","fromNode":"762409dd12c23ba5","fromSide":"bottom","toNode":"fc675ed02e906a84","toSide":"top"}
+	]
+}

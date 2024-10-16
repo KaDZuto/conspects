@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "8c0ab488b657ade9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c907241ed046ec5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f668691c1f19111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты/9 Сентября.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1352d70a5f5cc0bb",
+            "type": "leaf",
+            "state": {
+              "type": "cm-changelog-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68a7b968d4660a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c88f119a27592957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1cd3f64cb6abbf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b07a39e9f2f61ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ade25550a90866f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6fa13179cd404357",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f6b601a8f4629f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5126671b830992bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Конспекты/9 Сентября.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b838a5bf9fa05653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Конспекты/9 Сентября.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "220656331edfbbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d254c0f1fd686dce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Конспекты/9 Сентября.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f668691c1f19111",
+  "lastOpenFiles": [
+    "Script/segment-264.ts",
+    "Script/segment-263.ts",
+    "Script/segment-262.ts",
+    "Script/segment-261.ts",
+    "Script/segment-260.ts",
+    "Script/segment-259.ts",
+    "Script/segment-258.ts",
+    "Script/segment-257.ts",
+    "Script/segment-256.ts",
+    "Script/segment-255.ts",
+    "Script/segment-254.ts",
+    "!База.md",
+    "Цель и задачи.md",
+    "Конспекты/9 Сентября.md",
+    "Определение и понятия.md",
+    "Актуальность.md",
+    "Конспекты/3 Сентября.md",
+    "Конспекты/!Оглавление.md",
+    "Untitled 1.md"
+  ]
+}

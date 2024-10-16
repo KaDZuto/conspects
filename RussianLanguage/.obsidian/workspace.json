@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "5c1592ea94cb5f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a0c368f93855129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cf25d4471b61da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 октября.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40c4f318d5f68130",
+    "type": "split",
+    "children": [
+      {
+        "id": "144f113c16334a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465bcac56568b247",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d510f551579c0ce9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a70551f7f5bd5897",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "04ff01e308664d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33fb9bb29cc5c33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e3a111c5043572",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "16 октября.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "148fcc8ee4b9b58c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "16 октября.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92c1cb2e0b2f0351",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5965d7a779ed2fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "16 октября.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f4cf25d4471b61da",
+  "lastOpenFiles": [
+    "Конспекты/Конспекты по датам/02 Октября.md",
+    "16 октября.md",
+    "Конспекты/Конспекты по датам/!Конспекты по датам.md",
+    "Конспекты/Конспекты по датам/5 Сентября.md",
+    "Конспекты/Конспекты по датам/5 синонимов к штанам.md",
+    "Конспекты/Конспекты по датам/Просто пишем.md",
+    "Конспекты/Конспекты по датам/18 Сентября.md",
+    "Канвасы/Уровни русского языка.canvas",
+    "Канвасы/Формы СРЯ.canvas",
+    "Канвасы/Функции СРЯ.canvas",
+    "!База.md",
+    "Конспекты/СРЯ как система/Формы СРЯ.md",
+    "Конспекты/СРЯ как система/!СРЯ как система.md",
+    "Конспекты/СРЯ как система/Функции СРЯ.md",
+    "Признаки литературного СРЯ.md",
+    "Конспекты/СРЯ как система/Уровни русского языка.md",
+    "Конспекты/Конспекты по датам/4 Сентября.md",
+    "Конспекты/СРЯ как система",
+    "Untitled.canvas",
+    "Канвасы",
+    "Конспекты/Конспекты по датам/Untitled.canvas",
+    "Конспекты/Конспекты по датам",
+    "Конспекты"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "408b5cf0c505c6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd79b9f8d76690d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f50c42f20e8f81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e2febbedb57ef78",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99781c90eb387a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5d4c3d51fb5c8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ad0d8ef3083f06c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7eead0911253711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aa87e758e29cbcce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0d33cc467661c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "548e6549e8f7f1e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eaab6a7b1a8852bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0ffd82aa2c9d128",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c3ba7b133118754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b2f50c42f20e8f81",
+  "lastOpenFiles": [
+    "Конспекты/По датам/15 Октября.md",
+    "Конспекты/По датам/10 Сентября.md",
+    "Конспекты/По датам/01 Октября.md",
+    "Конспекты/По датам/8 Октября.md",
+    "Конспекты/По датам/!Конспекты по датам.md",
+    "Конспекты/По датам/24 Сентября.md",
+    "Конспекты/По датам/3 Сентября.md",
+    "!База.md",
+    "Домашка.md",
+    "Конспекты/По датам/17 Сентября.md.md",
+    "Журнал пыток учеников.md",
+    "Кодики/Пределы/Пределы. Задачка1.md",
+    "Конспекты/Пределы/Пределы последовательности/!Предел последовательности.md",
+    "Конспекты/Пределы/Пределы функций/!Пределы функций.md",
+    "Конспекты/Пределы/Пределы функций/Элементарные преобразования графиков функций.md",
+    "Предикаты.md",
+    "Конспекты/Теория множеств/!Теория множеств.md",
+    "Конспекты/Теория множеств/Элементы теории множеств.md",
+    "Конспекты/Теория множеств/Множество R.md",
+    "Конспекты/Пределы/Пределы последовательности/Теорема о двух милиционерах.md",
+    "Предел последовательности.md",
+    "Математический анализ.md",
+    "Конспекты/Пределы/Пределы последовательности/Второй замечательный предел.md",
+    "Бином Ньютона.md",
+    "Конспекты/Пределы/Пределы последовательности/Число e и его предел.md",
+    "arc_tg.gif",
+    "arc_sin.gif",
+    "Конспекты/Пределы/Числовая последоватлеьность/!Числовая последовательность.md",
+    "Untitled.canvas",
+    "Конспекты/Пределы/Числовая последоватлеьность",
+    "Конспекты/Пределы/Пределы последовательности",
+    "Конспекты/Пределы/Пределы функций",
+    "Кодики/eshechka.py",
+    "IMG_20240910_120430_169.jpg",
+    "Канвасы/Теория множеств/Отображения.canvas",
+    "IyVh4w0YSX-P3QRVuV8-PQ_b.jpg",
+    "Канвасы/Теория множеств/Множество R.canvas",
+    "Конспекты/Теория множеств/Типы множеств",
+    "Конспекты/Теория множеств/Отображения",
+    "Канвасы/Теория множеств",
+    "Канвасы",
+    "Кодики/pi.py",
+    "Конспекты/Пределы"
+  ]
+}

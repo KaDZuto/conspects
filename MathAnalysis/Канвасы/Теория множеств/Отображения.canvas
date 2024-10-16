@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "e49e89e56444e315",
+      "type": "file",
+      "file": "Конспекты/Теория множеств/Отображения/Инъекция (Однозначное отображение).md",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "32a53819b161dcd2",
+      "type": "file",
+      "file": "Конспекты/Теория множеств/Отображения/Сюръекция (Onto).md",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2eb581f9e20b9d86",
+      "type": "file",
+      "file": "Конспекты/Теория множеств/Отображения/Биекция.md",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9f8f77052bbaa939",
+      "type": "file",
+      "file": "Конспекты/Теория множеств/Отображения/!Отображения.md",
+      "styleAttributes": {},
+      "x": -280,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "5f2204387a0786a1",
+      "fromNode": "9f8f77052bbaa939",
+      "fromSide": "bottom",
+      "toNode": "e49e89e56444e315",
+      "toSide": "top"
+    },
+    {
+      "id": "0eb52acf8044fcf4",
+      "fromNode": "9f8f77052bbaa939",
+      "fromSide": "bottom",
+      "toNode": "32a53819b161dcd2",
+      "toSide": "top"
+    },
+    {
+      "id": "6a59665bc1d29f4b",
+      "fromNode": "32a53819b161dcd2",
+      "fromSide": "bottom",
+      "toNode": "2eb581f9e20b9d86",
+      "toSide": "top"
+    },
+    {
+      "id": "8d091f03ab62a984",
+      "fromNode": "e49e89e56444e315",
+      "fromSide": "bottom",
+      "toNode": "2eb581f9e20b9d86",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
