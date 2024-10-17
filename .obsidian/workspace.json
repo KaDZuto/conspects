@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometry/Шпаргалка-справочник к микросессии 1го семестра.md",
+                "file": "Geometry/Конспекты/Конспекты по датам/17 Октября.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "087b3288df8dc3c6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometry/Шпаргалка-справочник к микросессии 1го семестра.md",
+                "file": "Geometry/Конспекты/Конспекты по датам/17 Октября.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometry/Шпаргалка-справочник к микросессии 1го семестра.md",
+                "file": "Geometry/Конспекты/Конспекты по датам/17 Октября.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometry/Шпаргалка-справочник к микросессии 1го семестра.md"
+                "file": "Geometry/Конспекты/Конспекты по датам/17 Октября.md"
               }
             }
           }
@@ -149,7 +150,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "17 Октября.md",
+    "Pasted image 20241017124132.png",
+    "Pasted image 20241017124113.png",
+    "Pasted image 20241017124002.png",
+    "Geometry/Конспекты/Конспекты по датам/16 Октября.md",
+    "Geometry/Конспекты/Конспекты по датам/17 Октября.md",
+    "Geometry/Конспекты/Векторная алгебра/!Векторная алгебра.md",
     "Geometry/Шпаргалка-справочник к микросессии 1го семестра.md",
     "Geometry/Перечень вопросов к микроссесии 1 семестра.pdf",
     "Pasted image 20241017113921.png",
@@ -183,10 +189,7 @@
     "RussianLanguage/Канвасы/Уровни русского языка.canvas",
     "RussianLanguage/Конспекты",
     "RussianLanguage/Канвасы",
-    "RussianLanguage/!База.md",
     "RussianLanguage",
-    "TechnologyOfCode/RussianLanguage/Конспекты/СРЯ как система/!СРЯ как система.md",
-    "TechnologyOfCode/RussianLanguage/Конспекты/СРЯ как система/Функции СРЯ.md",
     "TechnologyOfCode/RussianLanguage/Конспекты/СРЯ как система",
     "TechnologyOfCode/RussianLanguage/Конспекты/Конспекты по датам",
     "TechnologyOfCode/RussianLanguage/Канвасы/Функции СРЯ.canvas",
