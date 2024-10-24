@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MathAnalysis/Конспекты/По датам/22 Октября.md",
+                "file": "Algebra/Конспекты/Конспекты по датам/24 октября.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 Октября"
+              "title": "24 октября"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Линейно неза",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MathAnalysis/Конспекты/По датам/22 Октября.md",
+                "file": "Geometry/Geometry1-20.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22 Октября"
+              "title": "Backlinks for Geometry1-20"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MathAnalysis/Конспекты/По датам/22 Октября.md",
+                "file": "Geometry/Geometry1-20.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22 Октября"
+              "title": "Outgoing links from Geometry1-20"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MathAnalysis/Конспекты/По датам/22 Октября.md"
+                "file": "Geometry/Geometry1-20.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of 22 Октября"
+              "title": "Outline of Geometry1-20"
             }
           }
         ]
@@ -165,6 +165,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Algebra/Конспекты/Конспекты по датам/26 Сентября.md",
+    "Algebra/Конспекты/Конспекты по датам/24 октября.md",
+    "Algebra/Конспекты/Конспекты по датам/!Конспекты по датам.md",
+    "Algebra/Конспекты/Конспекты по датам/3 октября.md",
+    "Algebra/Конспекты/Сумма и произведение с правилами.md",
+    "README.md",
+    "Geometry/Geometry1-20.pdf",
+    "Geometry/Конспекты/Конспекты по датам/18 Сентября.md",
+    "MathAnalysis/Конспекты/По датам/22 Октября.md",
     "MathAnalysis/Конспекты/По датам/!Конспекты по датам.md",
     "Geometry/Конспекты/Конспекты по датам/17 Октября.md",
     "Pasted image 20241017124132.png",
@@ -179,7 +188,6 @@
     "Pasted image 20241017113825.png",
     "Geometry/Конспекты/Конспекты по датам/!Конспекты по датам.md",
     "Geometry/!База.md",
-    "README.md",
     "MathAnalysis/!База.md",
     "MathAnalysis/Домашка.md",
     "RussianLanguage/Конспекты/Конспекты по датам/!Конспекты по датам.md",
@@ -191,13 +199,6 @@
     "RussianLanguage/Конспекты/СРЯ как система/Функции СРЯ.md",
     "RussianLanguage/Конспекты/СРЯ как система/Формы СРЯ.md",
     "RussianLanguage/Конспекты/СРЯ как система/Уровни русского языка.md",
-    "RussianLanguage/Конспекты/СРЯ как система/!СРЯ как система.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/Просто пишем.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/5 синонимов к штанам.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/5 Сентября.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/4 Сентября.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/18 Сентября.md",
-    "RussianLanguage/Конспекты/Конспекты по датам/02 Октября.md",
     "RussianLanguage/Конспекты/СРЯ как система",
     "RussianLanguage/Конспекты/Конспекты по датам",
     "RussianLanguage/Канвасы/Функции СРЯ.canvas",
@@ -211,7 +212,6 @@
     "TechnologyOfCode/RussianLanguage/Канвасы/Функции СРЯ.canvas",
     "TechnologyOfCode/RussianLanguage/Канвасы/Формы СРЯ.canvas",
     "TechnologyOfCode/RussianLanguage/Канвасы/Уровни русского языка.canvas",
-    "TechnologyOfCode/RussianLanguage/Конспекты",
-    "TechnologyOfCode/RussianLanguage/Канвасы"
+    "TechnologyOfCode/RussianLanguage/Конспекты"
   ]
 }
